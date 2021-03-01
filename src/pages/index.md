@@ -6,11 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/download__4_.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # **The best head shop on Earth.**
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Shop online today, or come in to our shop so we can get to know each
+      other. 
     actions:
       - title: See all items
         url: /store
