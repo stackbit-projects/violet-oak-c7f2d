@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: '19.99'
 title: Vegan Delta 8 Gummies
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
